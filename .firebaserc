@@ -1,6 +1,5 @@
 {
   "projects": {
-    "agro": "agropackaging-653f2",
-    "acro": "acro-packaging"
+    "default": "acro-packaging"
   }
 }

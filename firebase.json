@@ -1,10 +1,29 @@
 {
   "hosting": {
     "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+    "rewrites": [{
+      "source": "**",
+      "function": "app"
+    }],
+   "headers": [ {
+  "source" : "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
+  "headers" : [ {
+    "key" : "Access-Control-Allow-Origin",
+    "value" : "*"
+  } ]
+}, {
+  "source" : "**/*.@(jpg|jpeg|gif|png)",
+  "headers" : [ {
+    "key" : "Cache-Control",
+    "value" : "max-age=315360000"
+  } ]
+}, {
+  // Sets the cache header for 404 pages to cache for 5 minutes
+  "source" : "404.html",
+  "headers" : [ {
+    "key" : "Cache-Control",
+    "value" : "max-age=315360000"
+  } ]
+} ]
   }
 }

@@ -159,6 +159,61 @@ a, a:focus, a:hover {
 .gray-bg {
   background: #f9f9ff;
 }
+@import "bourbon";
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+$color: rgba(0,124,205,1);
+
+/* psuedo element animations */
+@include keyframes( downloadBounce ) {
+  to {
+    @include transform( translateY(0px) rotate(50deg) );
+  } 
+}
+@include keyframes( downloadBounce2 ) {
+  to {
+    @include transform( translateY(0px) rotate(-50deg) );
+  } 
+}
+
+.titled {
+  width: 350px;
+  height: 75px;
+  top: calc(50% - 96px);
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: -2px;
+
+  background: -moz-linear-gradient(127deg, rgba(72,198,239,1) 0%, rgba(111,134,214,1) 100%);
+  background: -webkit-linear-gradient(127deg, rgba(72,198,239,1) 0%, rgba(111,134,214,1) 100%);
+  background: linear-gradient(127deg, rgba(72,198,239,1) 0%, rgba(111,134,214,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#48c6ef",endColorstr="#6f86d6",GradientType=1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: 1s ease-out 0s 1 slide;
+}
+
+
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+
+@keyframes slide {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100;
+  }
+}
 
 h1, h2, h3,
 h4, h5, h6 {
