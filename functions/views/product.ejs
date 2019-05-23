@@ -16,6 +16,9 @@
     
     <%include header2%>
     <style type="text/css">
+    .section-gap {
+      padding: 70px 0;
+    }
     .unordered-list li:before {
       top: 8px;
       left: 5px;
@@ -55,16 +58,45 @@
   <!-- End About Area -->
 
   <!-- Start Products Area -->
-  <% if(display[0] != " ") {%>
+  <% if(lifting!="0" || outlet!="0" || inlet!="0" || liner!="0" || display[0]!= " ") {%>
   <section class="products-area section-gap" id ="scroll2">
     <div class="container">
       <div class="row section-title" style="text-align: left; margin-bottom: 5px;">
-        <h1><%= display[0] %></h1>   
+        <h1>Details</h1>   
       </div>
+      <% if(lifting!="0") {%>
+          <br><br>
+          <h3>Lifting Options:</h3>
+          <br>
+          <img src = "img/products/section0/prod<%=lifting%>.jpg" width="100%" height="auto" alt="<%= name %> Lifting Options">
+          <br>
+      <% } %>
+      <% if(outlet!="0") {%>
+          <br><br>
+          <h3>Outlet Options:</h3>
+          <img src = "img/products/section1/prod<%=outlet%>.jpg" width="100%" height="auto" alt="<%= name %> Outlet Options">
+      <% } %>
+      <% if(inlet!="0") {%>
+          <br><br>
+          <h3>Inlet Options:</h3>
+          <br>
+          <img src = "img/products/section2/prod<%=inlet%>.jpg" width="100%" height="auto" alt="<%= name %> Inlet Options">
+          <br>
+      <% } %>
+      <% if(liner!="0") {%>
+          <br><br>
+          <h3>Liner Options:</h3>
+          <br>
+          <img src = "img/products/section3/prod<%=liner%>.jpg" width="100%" height="auto" alt="<%= name %> Liner Options">
+          <br><br>
+      <% } else{%>
+          <br>
+      <% } %>
       <div class="row">
         <div class="col-md-8">
+          <h3><%= display[0] %></h3> 
           <ul class="unordered-list">
-            <% for(let i=1;i<display.length;i++){ %>
+            <% for(let i=1;i<display.length && display[1]!= " ";i++){ %>
             <li style="font-size: 16px;color: black"> <%= display[i] %></li>
             <% } %>
           </ul>

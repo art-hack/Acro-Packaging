@@ -79,7 +79,7 @@ app.get('/product',function(req,res){
   var url = req.url;
   url = url.substring(3,url.length);
   // res.send(req.query.id);
-  res.render( "product",{id: req.query.id, name : pdata[req.query.id].name, description : pdata[req.query.id].desc , display : pdata[req.query.id].display});
+  res.render( "product",{id: req.query.id, name : pdata[req.query.id].name, description : pdata[req.query.id].desc , display : pdata[req.query.id].display, inlet: pdata[req.query.id].inlet, outlet: pdata[req.query.id].outlet, liner: pdata[req.query.id].liner, lifting: pdata[req.query.id].lifting});
   // res.send(pdata[url]);
 });
 app.get('/fibc',function(req,res){

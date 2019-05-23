@@ -1,7 +1,11 @@
 ﻿{
   "1": {
-    "name": "2-LOOP BAGS",
+    "name": "1-2 LOOP BAGS",
     "desc": "Produced from single hollow material, the 1-and 2- Loop Bulk bags are widely accepted as being a lot more price efficient than the normal 4- Loop Bulk bag. Compared to the quality of 4- loop Bulk bag, these bags have totally different construction. The body-fabric of the bag itself is extended into a elevating loop which provides next level strength and makes the Bulk Bags (FIBC) easier to lift. The loops are often wrapped with colored sleeves that aid in separating totally different Bulk Bags (FIBC) as per their application. An inner liner is typically incorporated to keep the merchandise being carried clean and dry. These bags have their usage primarily within the agricultural sector however are used for storing and transporting product like powders and minerals.",
+    "inlet": "1",
+    "outlet": "1",
+    "liner": "1",
+    "lifting": "0",
     "display": [
       "Available Options :",
       "SWL Range: 500 kg to 1500 kg",
@@ -15,6 +19,10 @@
   "2": {
     "name": "U+2 PANEL BAGS",
     "desc": "U+2 panel is one in all the foremost popular designs of the Bulk Bags (FIBC)s. We specialize in producing and commerce a supreme quality variant of U+2 Panel baggage. A special care is taken in planning these products that the merchandise will pass most safe operating load demand with minimum GSM of the material.  Our product dimensions area unit is designed in a manner that it facilitates the user to boost the loading amount of the transportation vehicle. This is often one of the foremost convenient product to load and discharge and is employed in numerous industries like cement, food, chemical, compound and minerals.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "1",
+    "lifting": "0",
     "display": [
       "Available Options :",
       "SWL Range: 500 kg to 1500 kg",
@@ -28,6 +36,10 @@
   "3": {
     "name": "BAFFLED LINER BAG",
     "desc": "The Baffled bag is preferred for transportation and storing products where the most efficient use of convenient space is essential and is designed as a substitute to rigid forms of containers. The Baffled Bulk Bags (FIBC) bag utilizes inner baffles that maintain the original shape once the bag has been filled. This is achieved with perforated panels that ensure that the product flows uniformly into the corners. Baffled bags can be made to fit the pallet, while maintaining their mostly square shape. They can be used to hold chemicals, minerals and speciality stuff.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "2",
+    "lifting": "1",
     "display": [
       "Design Benifits",
       "Appearance – BEST square appearance when full",
@@ -44,6 +56,10 @@
   "4": {
     "name": "CONICAL BAGS",
     "desc": "A Conical Bulk Bags (FIBC) bag is shaped as a cone at the top/ bottom. These bags are especially suitable to pack poorly flowing products, such as clay, slurries etc. The Conical design provides a gradient for the tacky materials to ‘flow’ towards the outlet spout. By using these Bulk bags money can often be saved on expensive discharging systems. The use of gravity to discharge is often preferred over any mechanical means of discharging the product.<br>This design is available with all sewing pattern, inlet/outlet design and various closure options.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "1",
+    "lifting": "0",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -56,6 +72,10 @@
   "5": {
     "name": "CONTAINER BAG",
     "desc": "The Container liner is a Bulk bag of the size of a standard 20 feet, 30 feet or 40 feet ISO container. The FIBC lines the inside of the Metal container walls and hence the packed material is safer than in any bag or Bulk Bags (FIBC) (Bulk Bags (FIBC)/ PP woven bags). The walls of the container support the weight of the material packed and therefore there are no chances of material damage or loss.<br>The Bulk Bags (FIBC) acts as a border between the metal container and the product to be transported, the product remains safe from the contamination of the metal container(if any).Dry bulk container liners shielding the bulk cargo from moisture, contamination and ensuring safety and hygienic transport method.<br>The method of discharging of the material may vary upon the availability of discharging facility like crane/hoist, ramp, etc. It becomes very convenient to unload the bag and the material can directly be transported to destination.",
+    "inlet": "0",
+    "outlet": "0",
+    "liner": "3",
+    "lifting": "0",
     "display": [
       " ",
       " "
@@ -64,6 +84,10 @@
   "6": {
     "name": "CROSS CORNER / TUBULAR BAG",
     "desc": "Cross corner bags have loops stitched on the body of the main fabric, sometimes with added with vertical fabric reinforcement. These bags are preferred when the shape of the lifting loop becomes important.These Bulk bags are made from strong polypropylene material which is UV resistant and breathable woven fabric. Thus they are safe from premature weathering and sunlight as well.<br>This design is available with all sewing pattern, inlet/outlet design and various closure options.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "1",
+    "lifting": "0",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -76,6 +100,10 @@
   "7": {
     "name": "FORM STABILIZED BAG",
     "desc": "Form Stabilised Bags are Bulk Bags (FIBC)s with inner construction of baffles sewn to the main fabrics so that the bags retain shape after filling. These bags ensure saving in space, higher stability after filling and retention of the rectangular shape. This design is available with all sewing pattern, inlet/outlet design and various closure options.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "1",
+    "lifting": "0",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -88,6 +116,10 @@
   "8": {
     "name": "STANDARD BAG",
     "desc": "The standard four loop bag is a workhorse design for Bulk Bags (FIBC)s and bags all types of bulk materials.Standard Bulk Bags (FIBC) bags generally have regular dimensions of ½ cubic meter, 1/3 cubic meter and 1 cubic meter. Standard dimensions generally are 65x65x75 cm, 80x80x80 cm and 90x90x110 cm This design is available with all sewing pattern, inlet/outlet design and various closure options.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "1",
+    "lifting": "0",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -100,6 +132,10 @@
   "9": {
     "name": "TUNNEL LOOP BAG",
     "desc": "Tunnel loop Bulk bags have two parallel loops running the top length of the bag and facilitate easy manipulation of the Bulk Bags (FIBC) bag with a forklift.For the filling and discharging systems, the forklift truck operator can lift up the Bulk Bags (FIBC) bulk bag and place it into the filling or discharging system without having to get out of the truck.In addition, this may reduce your pallet usage. This design is available with all sewing pattern, inlet/outlet design and various closure options.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "1",
+    "lifting": "0",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -112,6 +148,10 @@
   "10": {
     "name": "TYPE A BAG",
     "desc": "Type A bags are constructed from a standard insulating fabric.These types of Bulk bags are made of polypropylene which is woven. The use of this type of Bulk Bags (FIBC) may give rise to brush and propagating brush discharges.The Type A Bulk Bags (FIBC) has no static protection,therefore, it is generally recommended that this type of Bulk Bags (FIBC) is not used for flammable powders or in locations where flammable vapor or gas atmospheres may be present which may cause fumes,fire and give rise to hazardous environment.<br>These designs are available with all sewing pattern, inlet/outlet design and various closure options.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "0",
+    "lifting": "0",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -124,6 +164,10 @@
   "11": {
     "name": "TYPE B BAG",
     "desc": "Type B bags are constructed from an insulating fabric. However, the fabric or the fabric/ liner combination has a voltage breakdown strength of less than 6 kV. This is quite effective for the prevention of explosive dust-air mixtures from igniting.Due to these Bulk bags inability to dissipate any static charge, they are also termed as ‘anti-static’ bags. Exposure to any flammable gas or any ignitable fluid may result in explosion and damage and must be avoided.<br>These designs are available with all sewing pattern, inlet/outlet design and various closure options.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "0",
+    "lifting": "0",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -136,6 +180,10 @@
   "12": {
     "name": "TYPE C BAG",
     "desc": "These bags are also termed as Conductive type C Bulk bags, these bags are produced from fabric which is non-conductive in nature but has conductive threads which are interwoven. These are special Bulk bags which when the bag is earthed, allow static electricity to pass through it.<br>TFast filling and discharge of an Bulk Bags (FIBC) by a powdered material generates static electricity which accumulates inside the bag. Further, to avert the dangers of explosion due to such accumulation of static charge, conductive properties are introduced in the Bulk bag; therefore the bag is earthed to allow safe discharge of electrical charge.<br>Type C Bulk bags are constructed using wall fabric that has a resistance to earth from any location on the Bulk Bags (FIBC) of less than 108W. The Bulk Bags (FIBC)s, provided they are grounded during use, are suitable to use in the presence of any potentially flammable atmospheres with either dust or gas vapour.<br>These designs are available with all sewing pattern, inlet/outlet design and various closure options.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "0",
+    "lifting": "0",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -148,6 +196,10 @@
   "13": {
     "name": "UN BAG",
     "desc": "UN Bulk bags are a special type of Bulk Bags (FIBC)s that are used for transportation of dangerous/hazardous materials. The UN Bulk bags are designed and tested in accordance with the recommendations laid down in the “United Nations Recommendation on the Transportation of Dangerous Goods (Orange Book)”. Various tests that are decided by the UN include Top lift test, Drop test, Righting test, Tear test and Stacking test.<br>This design is available with all sewing pattern, inlet/outlet design and various closure options..",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "1",
+    "lifting": "0",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -160,6 +212,10 @@
   "14": {
     "name": "VENTILATED BAG",
     "desc": "Ventilated Bulk bags are Bulk Bags (FIBC)s with breathable strips that allow for circulation of air.The fabric is specifically designed to permit the required air flow through the fabric into the bag. The circulation of air ensures perishable supplies stay fresh for a longer duration of time. These bags are useful for products that require breathing flow when packed, such as fruits, vegetables, logs, firewood.These Bulk Bags (FIBC)s also help prevent molding in products.<br>During an emergency supply of any wet product(which also needs drying before being shipped) needs to be transported the use of ventilated Bulk bag is preferred as the air flow will help in drying the product.<br>This design is available with all sewing pattern, inlet/outlet design and various closure options.",
+    "inlet": "2",
+    "outlet": "1",
+    "liner": "1",
+    "lifting": "1",
     "display": [
       "Customization options:",
       "Coating – Yes",
@@ -172,6 +228,10 @@
   "15": {
     "name": "VCI FILMS",
     "desc": "VCI films are Volatile Corrosion Inhibitor films used for enhancing the life of the product by saving it from catching rust, corrosion and contamination. Protecting metals from rust and corrosion has always been a matter of concern for the industries. Acro Corporation is a prime VCI films exporter to fabricate the metal parts in different shapes, sizes and weights for protecting them from corrosion before their shipment or safe storage. We deal in VCI films having most innovative corrosion inhibitor technology and that is manufactured using premium quality materials to meet the industrial standards. Keep your expensive metal parts safe with VCI films from Acro Corporation that comes in all sizes and thicknesses to suit all your applications.",
+    "inlet": "0",
+    "outlet": "0",
+    "liner": "0",
+    "lifting": "0",
     "display": [
       "Other available options: ",
       "Durable",
@@ -186,6 +246,10 @@
   "16": {
     "name": "VCI PAPER",
     "desc": "VCI Paper comes with high VCI chemicals carrying capacity and is helpful in protecting metals for long period of time. VCI papers also provide better abrasion resistance property compared to other plastic films. Acro Corporation provide wide assortment of VCI papers for various requirements of the clients. Our VCI papers have replaced the need for using oil and grease to protect the metal components against rust and corrosion. Variations in metals call for the need of various types of VCI papers. As the VCI papers exporters, we at Acro Corporation understand this need and provide specifically designed papers to meet the protection needs of every metal.",
+    "inlet": "0",
+    "outlet": "0",
+    "liner": "0",
+    "lifting": "0",
     "display": [
       "Other available options: ",
       "Better protection from the rust",
@@ -197,6 +261,10 @@
   "17": {
     "name": "VCI COATED PP WOVEN FABRIC",
     "desc": "VCI coated PP woven fabrics are used where extra strength and high tear resistance is required. It offers strong protection against rust and corrosion even in adverse climatic conditions. Specially engineered VCI chemicals are applied on both the sides of this fabric for protecting non-ferrous, ferrous and composite metals. Acro Corporation brings to its clients the premium quality of VCI coated PP woven bags made with superior quality raw materials. Our bags are widely appreciated in the market for their durability, toughness, water resistance, optical and electrical resistance properties.  We, the VCI coated PP Woven Bags exporters, can custom make the fabric as per the client’s specifications and are widely used to protect metal coils, sheets, tubes and wires.",
+    "inlet": "0",
+    "outlet": "0",
+    "liner": "0",
+    "lifting": "0",
     "display": [
       "Other available options: ",
       "Optimal quality",
@@ -207,6 +275,10 @@
   "18": {
     "name": "MULTIWALL PAPER BAGS",
     "desc": "Acro Corporation offers an extensive range of multiwall paper bags that can be designed and customized according to your requirement. We are appreciated as multiwall paper bag exporters and specialize in providing multiple options of customization to our clients for all their packaging needs. Paper and poly/paper option for packaging goods are the most cost-effective and handy material in the packaging industry. Our paper bags are made from renewable and sustainable resources and possess the essential properties like durability, safety and efficiency for reasonable packaging of industrial, agricultural, constructional and consumer goods. The ensure that our paper bags are eco friendly, leak proof, robust, locks the odor and preserve freshness of the goods.",
+    "inlet": "0",
+    "outlet": "0",
+    "liner": "0",
+    "lifting": "0",
     "display": [
       "Other available options: ",
       "Durable",
@@ -221,6 +293,10 @@
   "19": {
     "name": "PP WOVEN SACKS",
     "desc": "To meet the requirements of our clients in the best possible way as the PP woven sacks exporters, Acro Corporation is engaged in offering the best quality and premium range of PP Woven Sacks. We can customize the sacks according to the specifications of the clients. The bags are manufactured using high grade and tested raw materials which are procured from reliable vendors in the market. The PP Woven Sacks are tested as per the industry norms which make them highly durable, water and chemical resistant, light weight and sustainable. These sacks are eco friendly, can be recycled and can easily get decomposed. Our PP woven sacks are applicable in cement, sugar, chemical and fertilizer industries.",
+    "inlet": "0",
+    "outlet": "0",
+    "liner": "0",
+    "lifting": "0",
     "display": [
       "Other available options: ",
       "Length : As per requirement",
@@ -232,6 +308,10 @@
   "20": {
     "name": "BOPP BAGS",
     "desc": "Acro Corporation offers the bi-axially oriented polypropylene BOPP bags for packaging which is considered the packaging of the future are normally used for the storage and transportation of spices, pulses, fertilizers, paint powders, etc. As the BOPP bags exporters, we develop customized designs for our clients with vibrant colors and superior high resolution graphics in glossy and matte finishes that will take the bag to the whole new level of aesthetic beauty. These bags are known for their premium durability, eco friendly nature and 100% recyclability. BOPP bags allow premium full color print to tell the story of your product and increase your brand value.",
+    "inlet": "0",
+    "outlet": "0",
+    "liner": "0",
+    "lifting": "0",
     "display": [
       "Product Highlights: ",
       "Easy re-usable Tape To handle easily for repeat use",
